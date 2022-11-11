@@ -1,0 +1,578 @@
+[
+  {
+    "rating": [
+      "9.7",
+      "50"
+    ],
+    "rank": 1,
+    "cover_url": "https://img9.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p2153663114.jpg",
+    "is_playable": false,
+    "id": "3765826",
+    "types": [
+      "纪录片"
+    ],
+    "regions": [
+      "日本"
+    ],
+    "title": "蒙古草原，天气晴",
+    "url": "https:\/\/movie.douban.com\/subject\/3765826\/",
+    "release_date": "2006-06-03",
+    "actor_count": 1,
+    "vote_count": 35907,
+    "score": "9.7",
+    "actors": [
+      "普洁"
+    ],
+    "is_watched": false
+  },
+  {
+    "rating": [
+      "9.5",
+      "50"
+    ],
+    "rank": 2,
+    "cover_url": "https://img9.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p2335693756.jpg",
+    "is_playable": true,
+    "id": "26236632",
+    "types": [
+      "纪录片"
+    ],
+    "regions": [
+      "中国大陆"
+    ],
+    "title": "三十二",
+    "url": "https:\/\/movie.douban.com\/subject\/26236632\/",
+    "release_date": "2014-03-30",
+    "actor_count": 2,
+    "vote_count": 71163,
+    "score": "9.5",
+    "actors": [
+      "韦绍兰",
+      "罗善学"
+    ],
+    "is_watched": false
+  },
+  {
+    "rating": [
+      "9.4",
+      "50"
+    ],
+    "rank": 3,
+    "cover_url": "https://img9.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p2511664915.jpg",
+    "is_playable": true,
+    "id": "27615467",
+    "types": [
+      "传记",
+      "纪录片"
+    ],
+    "regions": [
+      "美国"
+    ],
+    "title": "大法官金斯伯格",
+    "url": "https:\/\/movie.douban.com\/subject\/27615467\/",
+    "release_date": "2018-01-21",
+    "actor_count": 11,
+    "vote_count": 65971,
+    "score": "9.4",
+    "actors": [
+      "鲁斯·巴德·金斯伯格",
+      "比尔·克林顿",
+      "奥林·G·哈奇",
+      "拉什·林博",
+      "安东宁·斯卡利亚",
+      "格洛丽亚·斯泰纳姆",
+      "妮娜·托滕贝格",
+      "乔治·W· 布什",
+      "巴拉克·奥巴马",
+      "唐纳德·特朗普",
+      "西奥多·奥尔森"
+    ],
+    "is_watched": false
+  },
+  {
+    "rating": [
+      "9.3",
+      "50"
+    ],
+    "rank": 4,
+    "cover_url": "https://img1.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p2559579779.jpg",
+    "is_playable": true,
+    "id": "3442220",
+    "types": [
+      "纪录片"
+    ],
+    "regions": [
+      "美国"
+    ],
+    "title": "海豚湾",
+    "url": "https:\/\/movie.douban.com\/subject\/3442220\/",
+    "release_date": "2009-07-31",
+    "actor_count": 7,
+    "vote_count": 344961,
+    "score": "9.3",
+    "actors": [
+      "路易·西霍尤斯",
+      "Hayato Sakurai",
+      "Mandy-Rae Cruikshank",
+      "Kirk Krack",
+      "伊莎贝尔·卢卡斯",
+      "海顿·潘妮蒂尔",
+      "John Chisholm"
+    ],
+    "is_watched": false
+  },
+  {
+    "rating": [
+      "9.7",
+      "50"
+    ],
+    "rank": 5,
+    "cover_url": "https://img1.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p2163632289.jpg",
+    "is_playable": false,
+    "id": "4167113",
+    "types": [
+      "纪录片",
+      "音乐"
+    ],
+    "regions": [
+      "日本"
+    ],
+    "title": "久石让在武道馆：与宫崎骏动画一同走过的25年",
+    "url": "https:\/\/movie.douban.com\/subject\/4167113\/",
+    "release_date": "2008-08-05",
+    "actor_count": 4,
+    "vote_count": 13954,
+    "score": "9.7",
+    "actors": [
+      "久石让",
+      "大桥望美",
+      "高畑勋",
+      "宫崎骏"
+    ],
+    "is_watched": false
+  },
+  {
+    "rating": [
+      "9.3",
+      "50"
+    ],
+    "rank": 6,
+    "cover_url": "https://img2.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p2209948211.jpg",
+    "is_playable": false,
+    "id": "25978207",
+    "types": [
+      "爱情",
+      "纪录片",
+      "家庭"
+    ],
+    "regions": [
+      "韩国"
+    ],
+    "title": "亲爱的，不要跨过那条江",
+    "url": "https:\/\/movie.douban.com\/subject\/25978207\/",
+    "release_date": "2014-11-27",
+    "actor_count": 0,
+    "vote_count": 52919,
+    "score": "9.3",
+    "actors": [],
+    "is_watched": false
+  },
+  {
+    "rating": [
+      "9.4",
+      "50"
+    ],
+    "rank": 7,
+    "cover_url": "https://img1.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p2542477749.jpg",
+    "is_playable": false,
+    "id": "26602234",
+    "types": [
+      "纪录片"
+    ],
+    "regions": [
+      "中国台湾"
+    ],
+    "title": "冲天",
+    "url": "https:\/\/movie.douban.com\/subject\/26602234\/",
+    "release_date": "2015-12-11",
+    "actor_count": 4,
+    "vote_count": 14729,
+    "score": "9.4",
+    "actors": [
+      "金士杰",
+      "张艾嘉",
+      "蔡灿得",
+      "贾静雯"
+    ],
+    "is_watched": false
+  },
+  {
+    "rating": [
+      "9.3",
+      "50"
+    ],
+    "rank": 8,
+    "cover_url": "https://img1.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p2619541259.jpg",
+    "is_playable": false,
+    "id": "35185752",
+    "types": [
+      "纪录片"
+    ],
+    "regions": [
+      "南非"
+    ],
+    "title": "我的章鱼老师",
+    "url": "https:\/\/movie.douban.com\/subject\/35185752\/",
+    "release_date": "2020-09-07",
+    "actor_count": 1,
+    "vote_count": 39376,
+    "score": "9.3",
+    "actors": [
+      "克雷格·福斯特"
+    ],
+    "is_watched": false
+  },
+  {
+    "rating": [
+      "9.3",
+      "50"
+    ],
+    "rank": 9,
+    "cover_url": "https://img1.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p2205830188.jpg",
+    "is_playable": true,
+    "id": "10741871",
+    "types": [
+      "传记",
+      "纪录片"
+    ],
+    "regions": [
+      "法国",
+      "意大利",
+      "巴西"
+    ],
+    "title": "地球之盐",
+    "url": "https:\/\/movie.douban.com\/subject\/10741871\/",
+    "release_date": "2014-10-15",
+    "actor_count": 3,
+    "vote_count": 37825,
+    "score": "9.3",
+    "actors": [
+      "塞巴斯蒂昂·萨尔加多",
+      "维姆·文德斯",
+      "朱利安·诺里贝罗·萨尔加多"
+    ],
+    "is_watched": false
+  },
+  {
+    "rating": [
+      "9.2",
+      "45"
+    ],
+    "rank": 10,
+    "cover_url": "https://img2.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p2618503222.jpg",
+    "is_playable": false,
+    "id": "4073872",
+    "types": [
+      "纪录片"
+    ],
+    "regions": [
+      "中国大陆"
+    ],
+    "title": "算命",
+    "url": "https:\/\/movie.douban.com\/subject\/4073872\/",
+    "release_date": "2009",
+    "actor_count": 1,
+    "vote_count": 37217,
+    "score": "9.2",
+    "actors": [
+      "唐小雁"
+    ],
+    "is_watched": false
+  },
+  {
+    "rating": [
+      "9.2",
+      "45"
+    ],
+    "rank": 11,
+    "cover_url": "https://img2.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p1741882642.jpg",
+    "is_playable": true,
+    "id": "7015798",
+    "types": [
+      "纪录片",
+      "音乐",
+      "传记"
+    ],
+    "regions": [
+      "英国",
+      "瑞典",
+      "芬兰"
+    ],
+    "title": "寻找小糖人",
+    "url": "https:\/\/movie.douban.com\/subject\/7015798\/",
+    "release_date": "2012-07-26",
+    "actor_count": 3,
+    "vote_count": 57671,
+    "score": "9.2",
+    "actors": [
+      "罗德里格斯",
+      "马利克·本德杰鲁",
+      "Steve Rowland"
+    ],
+    "is_watched": false
+  },
+  {
+    "rating": [
+      "9.3",
+      "50"
+    ],
+    "rank": 12,
+    "cover_url": "https://img2.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p2164484961.jpg",
+    "is_playable": false,
+    "id": "24867845",
+    "types": [
+      "纪录片"
+    ],
+    "regions": [
+      "中国大陆"
+    ],
+    "title": "乡村里的中国",
+    "url": "https:\/\/movie.douban.com\/subject\/24867845\/",
+    "release_date": "2013",
+    "actor_count": 0,
+    "vote_count": 16824,
+    "score": "9.3",
+    "actors": [],
+    "is_watched": false
+  },
+  {
+    "rating": [
+      "9.2",
+      "45"
+    ],
+    "rank": 13,
+    "cover_url": "https://img2.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p835650453.jpg",
+    "is_playable": true,
+    "id": "3018123",
+    "types": [
+      "纪录片"
+    ],
+    "regions": [
+      "法国"
+    ],
+    "title": "家园",
+    "url": "https:\/\/movie.douban.com\/subject\/3018123\/",
+    "release_date": "2009-06-05",
+    "actor_count": 4,
+    "vote_count": 49003,
+    "score": "9.2",
+    "actors": [
+      "扬·阿尔蒂斯-贝特朗",
+      "格伦·克洛斯",
+      "雅克·冈布兰",
+      "周迅"
+    ],
+    "is_watched": false
+  },
+  {
+    "rating": [
+      "9.1",
+      "45"
+    ],
+    "rank": 14,
+    "cover_url": "https://img9.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p2559581324.jpg",
+    "is_playable": true,
+    "id": "3443389",
+    "types": [
+      "纪录片"
+    ],
+    "regions": [
+      "法国",
+      "瑞士",
+      "西班牙",
+      "美国",
+      "阿联酋",
+      "摩纳哥"
+    ],
+    "title": "海洋",
+    "url": "https:\/\/movie.douban.com\/subject\/3443389\/",
+    "release_date": "2011-08-12",
+    "actor_count": 9,
+    "vote_count": 152342,
+    "score": "9.1",
+    "actors": [
+      "皮尔斯·布鲁斯南",
+      "小佩德罗·阿门达里斯",
+      "雅克·贝汉",
+      "宫泽理惠",
+      "马蒂亚斯·勃兰特",
+      "阿尔多",
+      "兰斯洛特·佩林",
+      "Manolo Garcia",
+      "姜文"
+    ],
+    "is_watched": false
+  },
+  {
+    "rating": [
+      "9.3",
+      "50"
+    ],
+    "rank": 15,
+    "cover_url": "https://img2.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p2691478511.jpg",
+    "is_playable": true,
+    "id": "6129689",
+    "types": [
+      "纪录片"
+    ],
+    "regions": [
+      "中国大陆"
+    ],
+    "title": "冰血长津湖",
+    "url": "https:\/\/movie.douban.com\/subject\/6129689\/",
+    "release_date": "2011-06-01",
+    "actor_count": 0,
+    "vote_count": 15157,
+    "score": "9.3",
+    "actors": [],
+    "is_watched": false
+  },
+  {
+    "rating": [
+      "9.6",
+      "50"
+    ],
+    "rank": 16,
+    "cover_url": "https://img1.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p2573211367.jpg",
+    "is_playable": true,
+    "id": "30322776",
+    "types": [
+      "纪录片"
+    ],
+    "regions": [
+      "英国"
+    ],
+    "title": "人生七年9",
+    "url": "https:\/\/movie.douban.com\/subject\/30322776\/",
+    "release_date": "2019-06-04",
+    "actor_count": 0,
+    "vote_count": 12557,
+    "score": "9.6",
+    "actors": [],
+    "is_watched": false
+  },
+  {
+    "rating": [
+      "9.4",
+      "50"
+    ],
+    "rank": 17,
+    "cover_url": "https://img1.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p2553166408.jpg",
+    "is_playable": false,
+    "id": "30330264",
+    "types": [
+      "纪录片"
+    ],
+    "regions": [
+      "美国"
+    ],
+    "title": "最大的小小农场",
+    "url": "https:\/\/movie.douban.com\/subject\/30330264\/",
+    "release_date": "2018-09-01",
+    "actor_count": 3,
+    "vote_count": 18487,
+    "score": "9.4",
+    "actors": [
+      "约翰·切斯特",
+      "茉莉·切斯特",
+      "博登·切斯特"
+    ],
+    "is_watched": false
+  },
+  {
+    "rating": [
+      "9.1",
+      "45"
+    ],
+    "rank": 18,
+    "cover_url": "https://img2.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p2459499263.jpg",
+    "is_playable": true,
+    "id": "26764928",
+    "types": [
+      "纪录片"
+    ],
+    "regions": [
+      "法国"
+    ],
+    "title": "脸庞，村庄",
+    "url": "https:\/\/movie.douban.com\/subject\/26764928\/",
+    "release_date": "2017-05-19",
+    "actor_count": 3,
+    "vote_count": 79718,
+    "score": "9.1",
+    "actors": [
+      "阿涅斯·瓦尔达",
+      "让·热内",
+      "让-吕克·戈达尔"
+    ],
+    "is_watched": false
+  },
+  {
+    "rating": [
+      "9.4",
+      "50"
+    ],
+    "rank": 19,
+    "cover_url": "https://img2.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p2553000871.jpg",
+    "is_playable": true,
+    "id": "2123440",
+    "types": [
+      "传记",
+      "纪录片"
+    ],
+    "regions": [
+      "英国"
+    ],
+    "title": "人生七年2",
+    "url": "https:\/\/movie.douban.com\/subject\/2123440\/",
+    "release_date": "1970-12-15",
+    "actor_count": 1,
+    "vote_count": 17786,
+    "score": "9.4",
+    "actors": [
+      "Tony Walker"
+    ],
+    "is_watched": false
+  },
+  {
+    "rating": [
+      "9.1",
+      "45"
+    ],
+    "rank": 20,
+    "cover_url": "https://img1.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p2238274168.jpg",
+    "is_playable": true,
+    "id": "1292281",
+    "types": [
+      "纪录片"
+    ],
+    "regions": [
+      "法国",
+      "德国",
+      "意大利",
+      "西班牙",
+      "瑞士"
+    ],
+    "title": "迁徙的鸟",
+    "url": "https:\/\/movie.douban.com\/subject\/1292281\/",
+    "release_date": "2001-12-12",
+    "actor_count": 2,
+    "vote_count": 71518,
+    "score": "9.1",
+    "actors": [
+      "雅克·贝汉",
+      "菲利普·拉布罗"
+    ],
+    "is_watched": false
+  }
+]
